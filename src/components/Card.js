@@ -1,14 +1,15 @@
 import React from 'react';
 
-const cards = ({ meal }) => {
+const Card = ({ meal }) => {
+
     return (
         <div className='meal-card'>
             <h2>{meal.strMeal}</h2>
             <p>Origin : {meal.strArea}</p>
-            <img src={meal.strMealThumb} alt={`photo de` + meal.strMeal} />
+            <img src={meal.strMealThumb} alt={"photo" + meal.strMeal} />
             <p>{meal.strInstructions}</p>
         </div>
     );
 };
 
-export default cards;
+export default Card;
