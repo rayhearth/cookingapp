@@ -23,10 +23,9 @@
       alt="react" width="40" height="40" /> </a>
 </p>
 
-<h3 align="center"> Backend</h3>
+<h3 align="center"> API </h3>
 <p align="center">
-  Installer JSON-SERVER : `npm i -g json-server`
-  Faire tourner le back : `json-server --w src/assets/db.json --port 3004`
+  fetcherles donnée de l'api via cxe lien https:/www.themealdb.com/api/json/v1/1/search.php?s=
 </p>
 
 
