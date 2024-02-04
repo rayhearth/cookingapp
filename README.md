@@ -25,7 +25,7 @@
 
 <h3 align="center"> API </h3>
 <p align="center">
-  fetcherles donnée de l'api via cxe lien https:/www.themealdb.com/api/json/v1/1/search.php?s=
+  fetcher les donnée de l'api via ce lien https:/www.themealdb.com/api/json/v1/1/search.php?s=
 </p>
 
 
